@@ -1,0 +1,11 @@
+"ID"	"SortOrder"	"Interval"	"LowerBound"	"UpperBound"
+1	1,00	"Interval1"	-Rp100000	Rp0
+2	2,00	"Interval2"	Rp0	Rp1000
+3	3,00	"Interval3"	Rp1000	Rp2000
+4	4,00	"Interval4"	Rp2000	Rp3000
+5	5,00	"Interval5"	Rp3000	Rp4000
+6	6,00	"Interval6"	Rp4000	Rp5000
+7	7,00	"Interval7"	Rp5000	Rp6000
+8	8,00	"Interval8"	Rp6000	Rp7000
+9	9,00	"Interval9"	Rp7000	Rp8000
+10	10,00	"Interval10"	Rp8000	Rp30000000
